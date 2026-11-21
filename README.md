@@ -4,7 +4,7 @@
 
 ## Download
 
-➡ **[Download the latest NearKonnect app (APK)](https://github.com/Nivasoo/nearkonnect-releases/releases/latest/download/NearKonnect.apk)**
+➡ **[Download the latest NearKonnect app (APK)](https://github.com/Nivasoo/nearkonnect-releases/raw/main/android/NearKonnect.apk)**
 
 Or open the download page: https://app.nearkonnect.com/download
 
@@ -15,6 +15,8 @@ Or open the download page: https://app.nearkonnect.com/download
 4. Tap Install, then Open. Log in with your email.
 
 If it says "App not installed", remove the older NearKonnect app first and install again.
+
+Current version: 1.4.0 (with K Guardian). SHA-256: `2763babe85db8b542a0711c307b14ab2e137753ff50d4e64aa884f70d53c328e`
 
 Requires Android 8 or newer. Free, no ads. Made in India by KK15 AI Technology Pvt. Ltd.
 
